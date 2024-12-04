@@ -1,0 +1,17 @@
+.ticketSuccess{
+    background: red;
+    cursor: no-drop;
+}
+.ticketVIP{
+    background: #FFD5CF;
+}
+.ticketThuong{
+    background: #C4F1F2;
+}
+.ticketLau{
+    background: #FDE098;
+}
+.ticketIsBeingSelected{
+    background: brown;
+    cursor: no-drop;
+}
